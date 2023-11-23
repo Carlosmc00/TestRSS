@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Games</title>
+        <description>Games on line</description>
+        <link>https://carlosmc00.github.io/TestRSS/</link>
+        <pubDate>23/11/2023</pubDate>
+        <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+        <item>
+            <title>Test page</title>
+            <link>https://carlosmc00.github.io/TestRSS/</link>
+            <pubDate>23/11/2023</pubDate>
+            <description>Ikariam</description>
+        </item>
+    </channel>
+</rss>
